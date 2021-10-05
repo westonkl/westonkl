@@ -1,17 +1,16 @@
-### Hi there, I'm Weston King-leatham 👋
+### Hi there, I'm Weston King-leatham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 I’m currently learning about machine learning through Kaggle
-- 💬 How to reach me: https://www.linkedin.com/in/weston-king-leatham/
+- 🌱 I’m currently learning about machine learning through Kaggle <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 💬 How to reach me: https://www.linkedin.com/in/weston-king-leatham/ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I love to read and rock climb in my free time
 
-### Connect with me:
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 
-[<img align="left" alt="weston | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="weston | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" 
 src="https://images-na.ssl-images-amazon.com/images/I/418CTRMn5SL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg" />][github]
