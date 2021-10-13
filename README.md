@@ -1,10 +1,13 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Weston King-leatham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am a Data Engineer at Cognixia, currently living in Maryland
 
-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I’m currently learning about machine learning through Kaggle
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Math and Computer Science graduate who loves solving difficult problems
-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Fun fact: I love to read and rock climb in my free time
+- :microscope: Math and Computer Science graduate who loves learning and solving difficult problems
+- :seedling: I’m currently learning about machine learning through [Kaggle](https://www.kaggle.com/) competitions
+- :basecamp: I love to read :books: and rock climb in my free time
 
-### [<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">][linkedin] Connect with me:  [<img alt="weston | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">][linkedin] ***I love connecting with new people,*** feel free to say hi!:
+
+[![Linkedin: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weston-king-leatham/)](https://www.linkedin.com/in/weston-king-leatham/)
 
 -----
 
