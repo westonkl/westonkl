@@ -3,11 +3,13 @@ I am a Data Engineer at Cognixia, currently living in Maryland
 
 - :microscope: Math and Computer Science graduate who loves learning and solving difficult problems
 - :seedling: I’m currently learning about machine learning through [Kaggle](https://www.kaggle.com/) competitions
-- :basecamp: I love to read :books: and rock climb in my free time
+- :basecamp: I love to read :books: and rock climb :climbing: in my free time
 
 [<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">][linkedin] ***I love connecting with new people,*** feel free to say hi!:
 
-[![Linkedin: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weston-king-leatham/)](https://www.linkedin.com/in/weston-king-leatham/)
+[![Linkedin: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weston-king-leatham/)](https://www.linkedin.com/in/weston-king-leatham/)
+
+[![Gmail: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat&logo=gmail&logoColor=white&link=westonkingl1@gmail.com)](mailto:westonkingl1@gmail.com)
 
 -----
 
