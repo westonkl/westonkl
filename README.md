@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Weston King-leatham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a Data Engineer at Cognixia, currently living in Maryland
+I am a Data Engineer at Capital One, currently living in Maryland
 
 - :microscope: Math and Computer Science graduate who loves learning and solving difficult problems
 - :seedling: I’m currently learning about machine learning through [Kaggle](https://www.kaggle.com/) competitions
@@ -9,7 +9,7 @@ I am a Data Engineer at Cognixia, currently living in Maryland
 
 [![Linkedin: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weston-king-leatham/)](https://www.linkedin.com/in/weston-king-leatham/)
 
-[![Gmail: Weston](https://img.shields.io/badge/-westonkl-blue?style=flat&logo=gmail&logoColor=white&link=westonkingl1@gmail.com)](mailto:westonkingl1@gmail.com)
+[![Gmail: Weston](https://img.shields.io/badge/-westonkl-white?style=flat&logo=gmail&logoColor=red&link=westonkingl1@gmail.com)](mailto:westonkingl1@gmail.com)
 
 -----
 
