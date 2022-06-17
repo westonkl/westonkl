@@ -1,9 +1,9 @@
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Weston King-leatham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Weston King-leatham! 👋
 I am a Data Engineer at Capital One, currently living in Maryland
 
-- :microscope: Math and Computer Science graduate who loves learning and solving difficult problems
+- :microscope: Math and Computer Science graduate who loves learning and clean code
 - :seedling: I’m currently learning about machine learning through [Kaggle](https://www.kaggle.com/) competitions
-- :basecamp: I love to read :books: and rock climb :climbing: in my free time
+- :basecamp: I love to read :books: and rock climb in my free time
 
 [<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">][linkedin] ***I love connecting with new people,*** feel free to say hi!:
 
